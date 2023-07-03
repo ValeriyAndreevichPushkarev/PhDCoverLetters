@@ -1,0 +1,48 @@
+Hello.
+
+Transformers is a bad decision for that task.
+
+I have an interesting approach:
+1) Build a model (skeleton with phone in hand, pockets and so on) - we can make clusters easily (all models will differ from each other only by leg length/phone position/speed). Also, there is framework with mechanic simulations on GPU.
+2) Identity states of model - running, walking, other type of activity
+3) Add state transitions - we have more chances than man who walks will walk further than other state changes
+
+Based on that 3 approaches, we can build a:
+1) Clusters of activities - Clustering with normalized models will be robust for all ages/heights/phone locations.
+2) Detect anomalies - if we don't have typical good/bad type of activity, we can call ambulance.
+Or build simple rules - model falls, but there are tremors or no activity for a long time, but display capacity sensor see no changes - it's trouble.
+Such kinds of identification almost impossible without building a model and make normalization.
+Also, 3–4 types of suspicious activities (falls, tremors, lost of symmetry during walking) are easily to combine and detect. And that is almost impossible for transformers (lack of data).
+3) Suspicious activity types changes - the same, we can detect anomalies not only in activities, but also in activities types changes
+
+Also, it's possible to pay money for near hospitals/clinics to get more detail about suspicious activity types and how often they occur.
+
+We can simply add text description for any state after we run simulation (or just see a result as 3-D animation).
+
+
+And I want to build an Ideal Optimization Pipeline. (to map parameters on models)
+
+First, simply running global optimization is a cost-sensitive, we have too many solutions and check all of them is almost impossible.
+
+But we can:
+1) Add some approximations of a solution (with neural net that trained to act like bloom filter or even SVM(that can act like set of rules)).
+2) Make many bloom filters to reduce possible solution space
+3) Run global optimization within that parameters area
+4) Possible make chain: Bloom filter - parameters searching - more precise bloom filter
+
+And that will work better than GlobalSearch from matlab (and other algorithms):
+1) because we have not only basins of attractions but also approximations based on neural nets
+2) we have better global optimization algorithm beneath all of that
+(https://medium.com/@pushkarevvaleriyandreevich/g​radient-descent-that-we-must-have-5a4542e218a0)
+3) we can even add some NLU features to make more conditions/filters
+
+
+Conclusion
+
+I have cources and specialization in machine learning, also I have algorihtm that better than algorithms in Matlab.
+I have expirience as a programmer (more than 3 years in top russian firms).
+
+So basically I can build all described models/pipelines.
+
+Also, I must transfer all of that to OpenCL/Tensorflow to make that usable.
+That is brief description of main work - build a suitable model and make robust explainable clusters/chains of clusters.
