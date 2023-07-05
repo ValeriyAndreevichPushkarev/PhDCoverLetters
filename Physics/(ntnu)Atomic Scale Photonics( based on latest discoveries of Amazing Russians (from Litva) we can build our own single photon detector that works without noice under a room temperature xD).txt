@@ -1,0 +1,47 @@
+Hello.
+There are many theoretical materials about detection of single electrons withing near-cryogenic parameters.
+But there is a large field that is almost undiscovered - quasi stationary states and what we can do with them.
+
+Latest discovery - transistors with electrons on quasi stationary levels.
+Basically - if we add a laser light to any surface, we will get another energy level of electrons (even without photoionisation).
+With another light source we can even make an ionization event.
+
+That led us to the new fast and robust transistors (IBM and Skolkovo(Russia), https://www.nature.com/articles/s41586-021-03866-​9)
+And of course to the new light sources (that can be drived by another light source).
+
+Theoretically, we can improve detector efficiency or get any other, unknown advantages from that (better LEDs)
+
+That is what I want to research during my work.
+Also, it's possible to build simple scripts to get leds, diodes based on that effect.
+Ideal result - get single atom light sources and detectors.
+
+Metamaterials - its a several more degree of freedom for building a light sources and a light detectors.
+Its always possible to change some configuration of semiconductors in 3d to get some effect (because of physics)
+(https://ethz.ch/en/news-and-events/eth-news/news​/2023/07/an-unexpected-antenna-for-nanoscale-ligh​t-sources.html)
+
+And I have experience with machine learning.
+At least I know that for any success in automatic discovery in that field we must specify:
+1) grammatics (objects: p-zone, n-zone, insulators, light sources, etc). parameters of objects (size, material type, positions).
+There we can add almost all possible actual trends in that field
+2) The end states
+what we want to get and how to score that.
+(power consumption/quality of detection,
+spectre,
+efficiency,
+how can we adjust parameters of electric field\light source and what we get (in terms of power/quality/&nbsp;spectre/efficiency)
+
+3) Workflow:
+Build a theory from grammatics (p-zone inside n- sone, two light sources).
+Adjust parameters with Global optimization
+Score results
+Save results to DB
+
+I have specialization in machine learning,
+Nice articles with Global Optimization (rated by astrophysics):
+(https://medium.com/@pushkarevvaleriyandreevich/g​radient-descent-that-we-must-have-5a4542e218a0)
+&nbsp;and others
+(https://medium.com/@pushkarevvaleriyandreevich/m​aking-libs-drivers-verilog-endpoints-for-custom-h​ardware-for-windows-linux-f8cf2d1e8efe,
+https://medium.com/@pushkarevvaleriyandreevich/ma​king-libs-drivers-verilog-enpoints-for-custom-har​dware-for-windows-linux-8a6f580aa3f3)
+
+So I can work under quite complex and big problems by myself.
+Also I have 3 years as a programmer so I can do almost all needed machine learning (and programming) parts.
