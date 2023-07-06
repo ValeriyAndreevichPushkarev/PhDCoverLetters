@@ -5,6 +5,7 @@ But there is a large field that is almost undiscovered - quasi stationary states
 Latest discovery - transistors with electrons on quasi stationary levels.
 Basically - if we add a laser light to any surface, we will get another energy level of electrons (even without photoionisation).
 With another light source we can even make an ionization event.
+And there is an n-zone with some laser light on it, an insulator (with the small controlled potential barrier ), and a p-zone (or metal) looks very promising.
 
 That led us to the new fast and robust transistors (IBM and Skolkovo(Russia), https://www.nature.com/articles/s41586-021-03866-​9)
 And of course to the new light sources (that can be drived by another light source).
@@ -15,8 +16,8 @@ That is what I want to research during my work.
 Also, it's possible to build simple scripts to get leds, diodes based on that effect.
 Ideal result - get single atom light sources and detectors.
 
-Metamaterials - its a several more degree of freedom for building a light sources and a light detectors.
-Its always possible to change some configuration of semiconductors in 3d to get some effect (because of physics)
+Metamaterials - its several more degrees of freedom for building light sources and light detectors.
+It's always possible to change some configuration of semiconductors in 3d to get some effect (because of physics)
 (https://ethz.ch/en/news-and-events/eth-news/news​/2023/07/an-unexpected-antenna-for-nanoscale-ligh​t-sources.html)
 
 And I have experience with machine learning.
