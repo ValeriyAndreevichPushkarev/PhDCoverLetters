@@ -24,8 +24,6 @@ Its kinda like a **overview of your portfolio of past projects**
 
 **(can be PDF or website: [example 1](https://andykong.org), [example 2](https://www.rayanarmani.com))**.
 
-(P.S. it is not an AGI by definition here or other tools to build a superhumans or so.
-Its just a PhD letters)
 xD
 
 
