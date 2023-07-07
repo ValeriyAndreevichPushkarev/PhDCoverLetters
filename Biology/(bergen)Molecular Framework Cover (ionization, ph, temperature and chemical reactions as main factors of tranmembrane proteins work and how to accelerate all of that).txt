@@ -1,0 +1,68 @@
+What do I plan to build?
+In short – A set of filters and models that will test automatically generated hypotheses (about protein functions).
+
+For every interaction I will build a filter and a model.
+Basic difference between filter and a model -
+filter should work as a bloom filter (without missing possible interactions). Here we can use a simple binary classifier trained with a big penalty for false negative results.
+The Model should predict the results of interactions. Ideally the output of the model should have the same vector type as an input.
+
+I will build as many models and filters as possible.
+It's quite critical to miss some possible interactions.
+Also I plan to extend ways to verify all ways that protein can change its form.
+
+So basically there are two different approaches (filters vs model as a filter)
+If the target is to build filters to quantum chemistry simulator:
+1. Limit reaction space in simulator.
+We don't need to calculate the interaction of most molecules with all protein. Reaction complex is quite small. So we can test more hypotheses and determine molecules that interact with our protein.
+2. Limit reaction space part 2
+Basically, protein work is a process, and there are no molecules that can interact with the center of protein. They interact with the convex hull first.
+After that molecules and signal proteins interact only with the external surface of the protein.
+3. Changing of protein structure.
+All changes can be approximated too.
+As a base we can get a model with pH and electrons speed.
+4. Ionization Zones
+Every part or protein can be ionized by light. So we can build an ionization map based on a model of our protein.
+5. Machine learning in 3D - binds or not (is molecules can interact with specified 3d-structure of space or not)
+6. etc
+
+All together those filters can greatly reduce the number of useless interaction simulations.
+
+If the target is to build a protein work model (and check all possible interactions in a model):
+1. Change of form during binding of molecules/ionization/temperature/pH change
+2. Change of form from changing protein parts from "left/right" side of simulated protein part
+I will not build a new amazing quantum chemistry simulator. It's enough to take some parts of protein with the legth of 1-5 amino acids and build a model from them.
+Yes. That can lead to changes in electron configuration of the simulated part and change its form
+3. Ability to interact with external molecules (mean electric potential of protein part. Almost the only place where simulator is needed)
+That is connected with (1) and (2) because the shape of a molecule determined by electrons.
+And here machine learning in 3D takes place.
+
+All together the model of protein work can be used instead of a quantum chemistry simulator.
+All results from the model can be verified in the simulator.
+
+Result of work - determine functions of unknown proteins.
+
+For that we must define several mechanisms:
+Proteins have a lipidation - there is many molecules of lipids/water/etc that can change functions dramatically.
+1. Protein simply react with something
+2. Protein changes its form during binding\unbinding of molecules
+3. Protein changes its form during photoionization
+4. Protein changes its shape during change of pH
+5. Protein change its shape during change of temperature
+
+Main hypotheses:
+Protein changes its shape during performing functions.
+Concentrations of ions and chemical compounds are changing too.
+And here possible to use libs for spacers (Visual exploration of large normal mode spaces to study protein flexibility.)
+or percolate/dont percolate property)
+
+Also, it's quite necessary to build a useful UI.
+Reaction graphs with animations from chemistry simulator, etc.
+
+Also we can specify that the protein performs the task successfully if it is returned to the initial state (but there is can be proteins that can change its states from different signals).
+And here we can create a generator of Ideal Transmembrane proteins (as it seems from the functional side). :)
+
+Why i'm trying to change my specialization from programer to molecular biology - all that you can read in Cover Letter.
+
+Also I have 3 courses and specialization from Coursera to build machine learning models.
+And I know C++ quite well (https://app.testdome.com/screening/test/f8e7f551​3d7a421ca86d184131089627)
+And 3 years experience as a programmer in top firms.
