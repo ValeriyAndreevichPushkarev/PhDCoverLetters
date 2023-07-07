@@ -9,9 +9,9 @@ If you disagree with something that written here - let me know.
 
 ## Looks very funny, especially when you have:
 
-[Best selector in the world (after synthesis)](https://github.com/ValeriyAndreevichPushkarev/Selector_8bit)
+[Best selector (after synthesis)](https://github.com/ValeriyAndreevichPushkarev/Selector_8bit)
 
-[Best global optimization method in the world (compared with standart from Matlab)](https://medium.com/@pushkarevvaleriyandreevich/gradient-descent-that-we-must-have-5a4542e218a0)
+[Best global optimization method (compared with standart from Matlab)](https://medium.com/@pushkarevvaleriyandreevich/gradient-descent-that-we-must-have-5a4542e218a0)
 
 [Best IPC technology (with generator) (compared with existed ones in linux kernel) Part 1](https://medium.com/@pushkarevvaleriyandreevich/making-libs-drivers-verilog-endpoints-for-custom-hardware-for-windows-linux-f8cf2d1e8efe)
 
