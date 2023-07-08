@@ -7,6 +7,17 @@ If you find a error or incorrect plan of work - let me know.
 
 If you disagree with something that written here - let me know.
 
+## Favorite parts
+
+DreamCoder as it described by author - bidirectional A*, persistent states and functions instead of lisp.
+
+Reading competition - Q&A and getting information about known objects (as it described in definition xD). There is no need for a 20b transformer here.
+
+Protein work model - 5 segments to get the form of a central fragment.
+Two nearest fragments with binded molecules, two farest without respect to binding (only type). There are many ions here. All can be delivered from a quantum chemistry simulator.
+
+Atomic-scale light detector. Yes, there are quasi stationary states of electrons described by Scolkovo and IBM. So the energy of ionization can change (and several little tricks).
+
 ## Looks very funny, especially when you have:
 
 [Best selector (after synthesis)](https://github.com/ValeriyAndreevichPushkarev/Selector_8bit)
