@@ -18,7 +18,7 @@ Two nearest fragments with binded molecules, two farest without respect to bindi
 
 Atomic-scale light detector. Yes, there are quasi stationary states of electrons described by Scolkovo and IBM. So the energy of ionization can change (and several little tricks).
 
-Myosin - make it smaller or bigger to get better muscles (mass and area)?
+Myosin - make it smaller or bigger to get better muscles (mass, area and mean electrostatic potential)?
 
 ## Looks very funny, especially when you have:
 
