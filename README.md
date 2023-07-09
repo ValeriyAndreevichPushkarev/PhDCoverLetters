@@ -22,7 +22,7 @@ Myosin - make it smaller or bigger to get better muscles (mass, area and mean el
 
 ## Looks very funny, especially when you have:
 
-[Best selector (after synthesis)](https://github.com/ValeriyAndreevichPushkarev/Selector_8bit)
+[Best selector (after synthesis, compared with ucdavis)](https://github.com/ValeriyAndreevichPushkarev/Selector_8bit)
 
 [Best global optimization method (compared with standart from Matlab)](https://medium.com/@pushkarevvaleriyandreevich/gradient-descent-that-we-must-have-5a4542e218a0)
 
