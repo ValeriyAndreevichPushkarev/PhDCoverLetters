@@ -20,6 +20,12 @@ Its can be very helpful sometimes.
 All that changes don't require changes of hardware and can be implemented on protocol level.
 Also that closely connected with hardware part of MIMO (amplitude and frequency plots of antenna, amplifier and how that can affect quality in extremal conditions and so on).
 
+Changes in hardware
+
+There is almost no need in many scenarios to change frequencies within 1-2 Mhz (all maritime connections exists without relative effects from quantum physics :) ).
+But we can have changes of primary frequencies because of reemitting of radio waves.
+It's much simpler to detect many sequences with hardware when there is no changes of the main frequency.
+
 The other part of work - determine weaknesses of MIMO solution.
 1) So, we can simply get transmission functions for different weather conditions and frequencies and check main frequency/modulation types.
 2) Check real spectral density of radio channel - there is can be a lot of surprises here
