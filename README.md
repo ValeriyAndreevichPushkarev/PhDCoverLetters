@@ -20,6 +20,8 @@ Atomic-scale light detector. Yes, there are quasi stationary states of electrons
 
 Myosin - make it smaller or bigger to get better muscles (mass, area and mean electrostatic potential)?
 
+Maritime radio - there is many protocols that can remove incorrect bit sequencies (that translated to electric signals and can be without some harmonics because of properties of environment) in any types of modulation. Also, there is much easier to detect signals with fixed frequency in many scenarious. And many other (like in modern huawei chips, but better).
+
 ## Looks very funny, especially when you have:
 
 [Best selector (after synthesis, compared with ucdavis)](https://github.com/ValeriyAndreevichPushkarev/Selector_8bit)
