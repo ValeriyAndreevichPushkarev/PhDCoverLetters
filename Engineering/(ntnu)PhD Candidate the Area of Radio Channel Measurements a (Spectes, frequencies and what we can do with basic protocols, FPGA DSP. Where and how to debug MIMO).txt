@@ -10,6 +10,10 @@ If not - we will get a good transmission function to work with.
 
 The second part -
 Recreate basic signals from spectral portrait with the help of DSP and machine learning.
+
+Some electromagnetic mods are more stable, some - less. Some mods can follows to another with a quite , some - not.
+All of that is researched mostly within optical interconnect. But the principles still the same.
+
 Now that is used in some cell phones and so on.
 Have lost of signal on some range of frequencies - just recreate signal from its spectral portrait (or from other projections, ).
 Also there is possible to create sets of sequences that will be more tolerant to selected Interferences.
