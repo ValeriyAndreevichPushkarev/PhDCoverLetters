@@ -1,0 +1,16 @@
+Hello.
+
+Every data sequence with almost any type of modulation (except amplitude modulation of cause) has a different spectral density.
+That is obviously because they have different results after Fourier Transform :).
+
+So we can determine signals that can reach much longer than other signals (because of spectre).
+Also, we can simply build amplitude/phase characteristics of transmission function based on the quality of different sequences.
+If that effect takes place we can develop a new protocol that can change the basis of binary codes to use them in transmission.
+If not - we will get a good transmission function to work with.
+
+The other part of work - determine weaknesses of MIMO solution.
+1) So, we can simply get transmission functions for different weather conditions and frequencies and check main frequency/modulation types.
+2) Check real spectral density of radio channel - there is can be a lot of surprises here
+3) Check protocol (on all OSI levels) - there is can be a lot of errors that reduce quality of link
+
+That is the brief description of planned work.
