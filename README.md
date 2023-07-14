@@ -12,6 +12,7 @@ If you disagree with something that written here - let me know.
 DreamCoder as it described by author - bidirectional A*, persistent states and functions instead of lisp. And NLU/knowledge bases (yep, AGI :) )
 
 Reading competition - Q&A and getting information about known objects (as it described in definition xD). There is no need for a 20b transformer here.
+Grammatics as a result of statistical processing (repeated sequences).
 
 Protein work model - 5 segments to get the form of a central fragment.
 Two nearest fragments with binded molecules, two farest without respect to binding (only type). There are many ions here. All can be delivered from a quantum chemistry simulator.
