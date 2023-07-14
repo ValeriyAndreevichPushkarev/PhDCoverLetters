@@ -23,7 +23,7 @@ Myosin - make it smaller or bigger to get better muscles (mass, area and mean el
 
 Maritime radio - there is possibility of protocols that can remove incorrect bit sequencies (that translated to electric signals and can be without some harmonics because of properties of environment) in any types of modulation. In worst scenarios we can specify a few sequencies and send data with them. Also, there is much easier to detect signals with fixed frequency in many scenarious. And many other (like in modern huawei chips, but better).
 
-And a zero notes abouts compensation of statical moment with springs and recuperation :).
+And a zero notes abouts compensation of statical moment with adjustable springs and usage of recuperation :).
 
 ## Looks very funny, especially when you have:
 
