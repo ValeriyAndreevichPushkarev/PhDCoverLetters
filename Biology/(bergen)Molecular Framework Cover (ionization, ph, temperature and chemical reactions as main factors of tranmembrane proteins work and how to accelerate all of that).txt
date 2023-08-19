@@ -74,3 +74,10 @@ Why i'm trying to change my specialization from programer to molecular biology -
 Also I have 3 courses and specialization from Coursera to build machine learning models.
 And I know C++ quite well (https://app.testdome.com/screening/test/f8e7f551​3d7a421ca86d184131089627)
 And 3 years experience as a programmer in top firms.
+
+Hello.
+Can I also develop a custom gRNA "case" on than vacancy (and test it with the developed models?).
+
+For example, now we can generate even 2-3 gRNA sequences and place them in the protein "case".Of course new constraints from nearby RNA will improve the quality of a targeting a lot.
+
+With the best wishes, Pushkarev Valeriy Andreevich
