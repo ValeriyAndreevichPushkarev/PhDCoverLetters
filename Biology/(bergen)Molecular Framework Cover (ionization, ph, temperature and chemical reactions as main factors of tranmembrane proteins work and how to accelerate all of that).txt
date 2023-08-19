@@ -81,7 +81,7 @@ Can I also develop a custom gRNA "case" on than vacancy (and test it with the de
 For example, now we can generate even 2-3 gRNA sequences and place them in the protein "case".Of course new constraints from nearby RNA will improve the quality of a targeting a lot.
 
 And there is also a possibility to improve quality even more - make the same with the opposite RNA part (in the DNA).
-So in total we can get a quite robust targeting system that can improve the quality of linked research a lot.
+So in total we can get a quite robust targeting system that can improve the quality of linked research a lot. And "close the case" after binding with other protein. 
 
 And after that we can even lock two mached parts with another designed protein ).
 
