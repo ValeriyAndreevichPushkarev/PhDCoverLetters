@@ -35,7 +35,7 @@ And a zero notes abouts compensation of statical moment with adjustable springs 
 
 [Best IPC technology (with generator) (compared with existed ones in linux kernel) Part 2](https://medium.com/@pushkarevvaleriyandreevich/making-libs-drivers-verilog-enpoints-for-custom-hardware-for-windows-linux-8a6f580aa3f3)
 
-[Machine learning with automated clustering with ensembles (mean of several models) and best model (bucketing).](https://medium.com/@PushkarevValeriyAndreevich2/ensemble-learning-how-it-should-be-c6aed7a45b1d)
+[Machine learning with automated clustering with ensembles (mean and best).](https://medium.com/@PushkarevValeriyAndreevich2/ensemble-learning-how-it-should-be-c6aed7a45b1d)
 
 And other [Not yet implemented projects with strong theoretical basis](https://github.com/ValeryAndreevichPushkarev)
 
