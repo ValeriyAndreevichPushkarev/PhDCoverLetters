@@ -1,0 +1,23 @@
+Hello.
+The Main difficulty for CBR is to extract data.
+And there I can make a big difference.
+Every case can be represented as an object (with linked objects).
+Basically the case is a chain (state-actions-state-actions).
+And the main difficulty in data extraction is to classify text (is that a state or a action text) - this is much easier than building a transformer that will extract objects from unstructured text.
+And it's quite easy to extract data about those objects with a Q&A.
+
+I plan to:
+1) Build a generator of questions based on few-shot learning and neural net.
+I want to specify objects, its properties, text and result object and get questions about any object properties.
+2) Build a cases extraction system
+(extractions of chains of actions-states)
+
+That allow us to:
+1) Get as many cases as possible Without training a giant transformer
+2) Get outstanding quality of reasoning in the health system (we have well-known states, actions and results. And zero cases because of possible faults of neural nets)
+
+Second part:
+Union states and make graphs of states. To make assumptions about how health can change in further.
+In short - we must simply find most related cases/states and look at what is a better strategy now.
+
+I have specialization from coursera (machine learning) and 3 years experience as a programmer to build such systems.
