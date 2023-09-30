@@ -58,4 +58,5 @@ So, basically I have experience with machine learning, python programming and so
 Also, I have education in related fields.
 
 (What i want to discover - Global optimization with identification of a planes (in 3d) between region with different soil types(conductivity).
-Actually, nowadays with GPU we can find global minimums even for functions with 100+ variables almost in realtime. Not a "Slices with a many pseudoreflections")
+Actually, nowadays with GPU we can find global minimums even for functions with 100+ variables almost in realtime. Not a "Slices with a many pseudoreflections".
+And actually you dont need to always use a gradient descent (just divide parameters space into N blocks, chose best, divide it into N blocks, all true PQ. Launch Gradient descent to make a perfect result even for 10k variables))
