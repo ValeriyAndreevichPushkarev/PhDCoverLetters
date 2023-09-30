@@ -1,0 +1,61 @@
+
+Hello.
+
+I have job experience at top-10 programming companies in Russia. (mostly on c#/.net)
+Also, I have done more than 5 courses in edx and coursera (with distinction). (in total about 1,5 years of courses, some of them reque programming on python)
+(with edx 6.002 Circuits and Electronics)
+
+I have related education - Automation and electromagnetic drives. (Active parameter identification, differential equations and so on)
+
+
+Small research project that I make
+
+I have several research projects done only by myself.
+
+Builded in institute during studying:
+1) AVR FBD compiler, based on topological sorting and blocks defined on assembly.
+That project can get up to 1000 logical blocks (with properties) (logic operators, simple arithmetics, display) on a single avr IC.
+
+2) Custom software to access data from electric meters via GPRS modem in coal mine
+- because of almost no GPRS/GSM signal in coal mine, we must change logic of data receiving
+
+Write GUI, driver for request electric meters, all data stored in database.
+Now almost all data about power consumption is available to make better power consumption predictions (and save money)
+
+Builded after graduation:
+1) Most effective Arithmetic IP cores in the world (but today nobody uses computers, so i even cant get feedback from anyone )
+https://github.com/ValeryAndreevichPushkarev/AddM​ul-RISC-V
+
+2) Most effective memory selector
+https://github.com/ValeryAndreevichPushkarev/Cach​e-MemoryBlock
+
+3) Global optimization method that better than Multistart (with all same properties)
+https://medium.com/@pushkarevvaleriyandreevich/gr​adient-descent-that-we-must-have-5a4542e218a0
+(Read from - What to do (With gradient descent)?)
+
+I have a specialization (now it's 3 courses in machine learning 2-3 weeks each) in machine learning (Andrew Ng, coursera) with distinction. (on python)
+Also have Berkley CS188.1x: Artificial Intelligence - basics of AI )
+
+
+How I plan to solve that task
+
+That task is basically active parametric identification.
+
+So to solve that I need to:
+1) Write all equations that corresponding to electromagnetic waves transmission in soils
+2) Write complete equation of electromagnetic waves transmission during radar operation
+3) Rewrite my Global optimization algorithm to work with GPU, add vectorization, add matlab version
+4) Its a Global optimization problem, so I will take data from Radar
+(I'm think there is FFT data must be available) and build most sustainable model that corresponds with that data
+5) If i can't identify parameters - modify Global optimization algorithm, add clusters of soil types.
+(and identify reflection coefficients/electromagnetic conductivity for each type of mineral/combination of minerals separately)
+6) Take all needed data from model parameters
+
+
+Conclusion
+
+So, basically I have experience with machine learning, python programming and so on.
+Also, I have education in related fields.
+
+(What i want to discover - Global optimization with identification of a planes (in 3d) between region with different soil types(conductivity).
+Actually, nowadays with GPU we can find global minimums even for functions with 100+ variables almost in realtime. Not a "Slices with a many pseudoreflections")
