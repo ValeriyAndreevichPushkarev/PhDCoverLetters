@@ -27,9 +27,9 @@ And a zero notes abouts compensation of statical moment with adjustable springs 
 
 ## Looks very funny, especially when you have:
 
-[Best selector (after synthesis, compared with ucdavis)](https://github.com/ValeriyAndreevichPushkarev/Selector_8bit)
+[Best selector (after synthesis, compared with fastest/smallets from ucdavis)](https://github.com/ValeriyAndreevichPushkarev/Selector_8bit)
 
-[Best global optimization method (compared with standart from Matlab)](https://medium.com/@pushkarevvaleriyandreevich/gradient-descent-that-we-must-have-5a4542e218a0)
+[Best global optimization method (compared with standart from Matlab, or best ones with optimization of parameters hyperspace)](https://medium.com/@pushkarevvaleriyandreevich/gradient-descent-that-we-must-have-5a4542e218a0)
 
 [Best IPC technology (with generator) (compared with existed ones in linux kernel) Part 1](https://medium.com/@pushkarevvaleriyandreevich/making-libs-drivers-verilog-endpoints-for-custom-hardware-for-windows-linux-f8cf2d1e8efe)
 
