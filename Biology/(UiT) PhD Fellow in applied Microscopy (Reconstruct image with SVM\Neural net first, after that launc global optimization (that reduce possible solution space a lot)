@@ -1,0 +1,25 @@
+Hello
+I want to build an ideal pipeline for image reconstruction (with machine learning) that can work with different models, even electronic microscopes.
+Here is a small plan of the ideal pipeline for optical imaging (even for the holographic microscope):
+1) Filter all noises
+2) Pretrain a quantized neural network (or SVM) to get "low-quality" images or data about objects for 2-3D microscopy.
+3) Use that data for a more detailed solver based on global optimization.
+4) Maybe add more fast solvers to get more data for a detailed solver (or reduce the possible solution space).
+5) Write all of that as kernels for CUDA, OpenCL, or another high-level framework.
+
+Or build a tool where you can add fast raw calculations and detailed calculations based on global optimization.
+
+That concept looks like a bloom filter, where we can reduce the size of the solution space with some fast computations (based on a neural net or even SVM) and get detailed results for nanoscopy with a solver. (because it's not always fast to find global optimum (solution) for 200 frames with resolution 200x100. That is the main problem for direct solving method).
+
+Here, we can simply build several types of models for different techniques.
+
+What I already have (and why I am eligible):
+1) Global optimization is better than multistart (2–3 times faster) (without basins of attractions and other suboptimal approaches). https://medium.com/@pushkarevvaleriyandreevich/gr​adient-descent-that-we-must-have-5a4542e218a0
+2) Experience with Matlab (from the institute)
+3) Experience with Python (courses from EdX or Coursera)
+4) Specialization in AI from Stanford University (with distinction) and 2 related courses
+5) Experience with GPU kernels
+
+
+All of that allows me to develop algorithms to get images from electronic or nanomicroscopy in a fast and efficient way.
+
