@@ -20,6 +20,7 @@ Two nearest fragments with binded molecules, two farest without respect to bindi
 Atomic-scale light detector. Yes, there are quasi stationary states of electrons described by Scolkovo and IBM. So the energy of ionization can change (and several little tricks).
 
 Myosin - make it smaller or bigger to get better muscles (mass, area and mean electrostatic potential)?
+[How can you make better muscles if you don't know even basics of theoretical mechanics (moments/etc)?](https://9gag.com/gag/aO8PVGr)
 
 Maritime radio - there is possibility of protocols that can remove incorrect bit sequencies (that translated to electric signals and can be without some harmonics because of properties of environment) in any types of modulation. In worst scenarios we can specify a few sequencies and send data with them. Also, there is much easier to detect signals with fixed frequency in many scenarious. And many other (like in modern huawei chips, but better).
 
